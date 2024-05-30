@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(201, 195, 187);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+input {
+    background-color: rgb(132, 131, 131);
+}
